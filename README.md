@@ -1,8 +1,8 @@
-# Real-Time Translator
+# Real-Time Language Translator
 
 ## Overview
 
-The Real-Time Translator is a Python-based application designed to provide real-time translation services. It uses a combination of speech recognition, transcription, translation, and text-to-speech technologies. The application runs a Streamlit web interface that allows users to start and stop the translation process with the click of a button.
+The Real-Time Language Translator is a Python-based application designed to provide real-time translation services. It uses a combination of speech recognition, transcription, translation, and text-to-speech technologies. The application runs a Streamlit web interface that allows users to start and stop the translation process with the click of a button.
 
 ## Features
 
