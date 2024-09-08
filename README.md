@@ -84,14 +84,14 @@ Thanks to all my teammates for their efforts and contributions in this project.
 
 ## Challenges we faced
 
--Implementation of large language models for translation voice cloning.
--Collecting parallel corpus data (Colloquial Tamil to English) for fine tuning Helsinki-nlp/opus model.
+- Implementation of large language models for translation voice cloning.
+- Collecting parallel corpus data (Colloquial Tamil to English) for fine tuning Helsinki-nlp/opus model.
 
 ## Future development ideas
 
--Using fine tuned LLM for translation.
--Implementing Voice cloning.
--Developing the product as a dialer extension.
+- Using fine tuned LLM for translation.
+- Implementing Voice cloning.
+- Developing the product as a dialer extension.
 
 ## License
 
