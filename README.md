@@ -24,12 +24,16 @@ To set up the project on your local machine, follow these steps using command te
     ```
 
 2. **Create a Virtual Environment:**
-
+    If Python 3.11 is your primary version use ,
     ```bash
     python -m venv venv
     ```
+    Else install Python 3.11 inside the RTLT project folder and use the python.exe file's path to create virtual environment.
+   ```bash
+   [path] -m venv venv
+   ```
 
-3. **Activate the Virtual Environment:**
+4. **Activate the Virtual Environment:**
 
     - On Windows:
     
@@ -38,13 +42,13 @@ To set up the project on your local machine, follow these steps using command te
       ```
 
 
-4. **Install Dependencies:**
+5. **Install Dependencies:**
 
     ```bash
     pip install -r requirements.txt
     ```
 
-5. **Run the Streamlit App:**
+6. **Run the Streamlit App:**
 
     ```bash
     streamlit run main.py
