@@ -24,6 +24,7 @@ To set up the project on your local machine, follow these steps using command te
     ```
 
 2. **Create a Virtual Environment:**
+
     If Python 3.11 is your primary version use ,
     ```bash
     python -m venv venv
