@@ -14,7 +14,7 @@ The Real-Time Language Translator is a Python-based application designed to prov
 
 ## Installation
 
-To set up the project on your local machine, follow these steps:
+To set up the project on your local machine, follow these steps using command terminal:
 
 1. **Clone the Repository:**
 
