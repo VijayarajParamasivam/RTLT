@@ -19,8 +19,8 @@ To set up the project on your local machine, follow these steps:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/VijayarajParamasivam/IDEATHON_2024-CODEPIT.git
-    cd IDEATHON_2024-CODEPIT
+    git clone https://github.com/VijayarajParamasivam/RTLT.git
+    cd RTLT
     ```
 
 2. **Create a Virtual Environment:**
