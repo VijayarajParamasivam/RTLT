@@ -47,7 +47,7 @@ To set up the project on your local machine, follow these steps using command te
 5. **Run the Streamlit App:**
 
     ```bash
-    streamlit run app.py
+    streamlit run main.py
     ```
 
 ## Usage
@@ -58,7 +58,7 @@ To set up the project on your local machine, follow these steps using command te
 
 ## Project Structure
 
-- `app.py`: Main Streamlit application file.
+- `main.py`: Main Streamlit application file.
 - `speech_recognision.py`: Handles speech recognition functionality.
 - `transcription.py`: Manages the transcription of recognized speech.
 - `translation.py`: Provides translation services.
